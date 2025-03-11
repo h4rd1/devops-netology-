@@ -12,7 +12,7 @@
 
 vbox
 
-      virtualboxvm -h
+    virtualboxvm -h
     Oracle VM VirtualBox VM Runner v6.1.50_Ubuntu
     (C) 2005-2024 Oracle Corporation
     All rights reserved.
