@@ -24,5 +24,34 @@
     Name       : VMBitrix9.0-0-CentOSStream9-HyperV
     Generation : 1
 
+Vagrant 
+
+    h4rd@vm1:~$ vagrant -v
+    Vagrant 2.2.6
+
+Ansible 
+
+    h4rd@vm1:~$ ansible --version
+    ansible 2.9.6
+      config file = /etc/ansible/ansible.cfg
+      configured module search path = ['/home/h4rd/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
+      ansible python module location = /usr/lib/python3/dist-packages/ansible
+      executable location = /bin/ansible
+      python version = 3.8.10 (default, Mar 15 2022, 12:22:08) [GCC 9.4.0]
+
+Packer
+
+    h4rd@vm1:~$ packer --version
+    Packer v1.11.2
+
+
+Yandex cloud 
+
+    h4rd@vm1:~$ yc init
+    Welcome! This command will take you through the configuration process.
+
+Задача 2
+
+
 
 
