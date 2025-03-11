@@ -10,7 +10,7 @@
 
 Примечание: Облачная ВМ с Linux в данной задаче не подойдёт из-за ограничений облачного провайдера. У вас просто не установится virtualbox.
 
-Не использую vbox
+Не использую vbox, hyper-v/docker_desktop
 
     PS C:\WINDOWS\system32> Get-VM | Format-List Name,Generation
 
