@@ -10,4 +10,19 @@
 
 Примечание: Облачная ВМ с Linux в данной задаче не подойдёт из-за ограничений облачного провайдера. У вас просто не установится virtualbox.
 
+Не использую vbox
+
+    PS C:\WINDOWS\system32> Get-VM | Format-List Name,Generation
+
+
+    Name       : DockerDesktopVM
+    Generation : 2
+
+    Name       : Ubuntu 20.04 LTS
+    Generation : 2
+
+    Name       : VMBitrix9.0-0-CentOSStream9-HyperV
+    Generation : 1
+
+
 
