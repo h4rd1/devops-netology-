@@ -52,6 +52,49 @@ Yandex cloud
 
 Задача 2
 
+    Убедитесь, что у вас есть ssh ключ в ОС или создайте его с помощью команды ssh-keygen -t ed25519
+    Создайте виртуальную машину Virtualbox с помощью Vagrant и Vagrantfile в директории src.
+    Зайдите внутрь ВМ и убедитесь, что Docker установлен с помощью команды:
+
+docker version && docker compose version
+
+    Если Vagrant выдаёт ошибку (блокировка трафика):
+
+URL: ["https://vagrantcloud.com/bento/ubuntu-20.04"]     
+Error: The requested URL returned error: 404:
+
+Выполните следующие действия:
+
+    Скачайте с сайта файл-образ "bento/ubuntu-20.04".
+    Добавьте его в список образов Vagrant: "vagrant box add bento/ubuntu-20.04 <путь к файлу>".
+
+Важно:
+
+    Если ваша хостовая рабочая станция - это windows ОС, то у вас могут возникнуть проблемы со вложенной виртуализацией. Ознакомиться со cпособами решения можно по ссылке.
+
+    Если вы устанавливали hyper-v или docker desktop, то все равно может возникать ошибка:
+    Stderr: VBoxManage: error: AMD-V VT-X is not available (VERR_SVM_NO_SVM)
+    Попробуйте в этом случае выполнить в Windows от администратора команду bcdedit /set hypervisorlaunchtype off и перезагрузиться.
+
+    Если ваша рабочая станция в меру различных факторов не может запустить вложенную виртуализацию - допускается неполное выполнение(до ошибки запуска ВМ)
+
+Ответ: 
+
+1 Сгенерировал ключ командой ssh-keygen и распространил ssh-copy-id $host
+
+2 Пакет docker установил
+
+    h4rd@vm1:~/.ssh$ docker version && docker compose version
+    Client:
+     Version:           26.1.3
+     API version:       1.45
+     Go version:        go1.22.2
+     Git commit:        26.1.3-0ubuntu1~20.04.1
+     Built:             Mon Oct 14 22:06:01 2024
+     OS/Arch:           linux/amd64
+     Context:           default
+
+   
 
 
 
