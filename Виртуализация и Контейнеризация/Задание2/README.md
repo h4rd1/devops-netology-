@@ -49,9 +49,8 @@ Ansible
 
 Packer
 
-    h4rd@vm1:~$ packer --version
-    Packer v1.11.2
-
+    h4rd@vm1:~/Загрузки$ packer --version
+    1.7.4
 
 Yandex cloud 
 
