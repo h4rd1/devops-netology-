@@ -128,6 +128,7 @@ h4rd@vm1:~/Загрузки$ yc compute image list
 | fd8l03cd04tu94nk5ftp | debian-11-docker |        | f2e88b7r5u1m5dn542ib | READY  |
 +----------------------+------------------+--------+----------------------+--------+
 
+![{7F3032B9-1E55-450A-997C-F15F06C96C76}](https://github.com/user-attachments/assets/40504e77-1cc4-418e-ae8b-450d71020e45)
 
 
  
