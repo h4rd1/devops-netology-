@@ -47,6 +47,7 @@ image доступен [h4rdl/kapustin-netology:1.0.0](https://hub.docker.com/re
 ![{D47870A2-30BA-4084-A918-7BF1BC402A98}](https://github.com/user-attachments/assets/61d3780c-aff9-44e4-b308-6ca50cec6822)
 ![{E69AE2D7-E489-4A6C-BDD8-BD558A0B7418}](https://github.com/user-attachments/assets/4787d9ee-f904-4015-9f1a-49e0e5a4e3d0)
 ![{2BAB2976-4EC3-43BD-9928-957780D6E034}](https://github.com/user-attachments/assets/45b71002-0b4f-4e52-a805-e4981ae126f4)
+![{E6F92C93-B90E-41D0-B340-A306E1552D92}](https://github.com/user-attachments/assets/23053a0f-2c5a-40b5-a4d8-6b31ee8bf2e4)
 
 
 
