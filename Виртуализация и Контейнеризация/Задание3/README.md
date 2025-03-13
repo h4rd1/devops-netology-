@@ -25,6 +25,8 @@ Hey, Netology
 
 ![{AD41FEAE-EC38-4078-AA60-FD946D300EAA}](https://github.com/user-attachments/assets/bca8cb68-198a-484f-a7dc-d3c289740515)
 
+![{3CF15698-90C9-499C-BC65-C6DB088CC7F2}](https://github.com/user-attachments/assets/1bb974d0-d9fe-4feb-b998-237184f9b59f)
+
 
 image доступен [h4rdl/kapustin-netology:1.0.0](https://hub.docker.com/repository/docker/h4rdl/kapustin-netology/general)
 
