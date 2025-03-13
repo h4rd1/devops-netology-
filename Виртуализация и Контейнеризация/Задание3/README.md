@@ -23,6 +23,9 @@ Hey, Netology
 
 ![{0F98537F-C490-4CB3-90BB-9A8222437A1F}](https://github.com/user-attachments/assets/7eb47bc5-664d-4862-90a9-0f15e6c79ec7)
 
+![{AD41FEAE-EC38-4078-AA60-FD946D300EAA}](https://github.com/user-attachments/assets/bca8cb68-198a-484f-a7dc-d3c289740515)
+
+
 image доступен [h4rdl/kapustin-netology:1.0.0](https://hub.docker.com/repository/docker/h4rdl/kapustin-netology/general)
 
 Задача 2
@@ -40,4 +43,3 @@ image доступен [h4rdl/kapustin-netology:1.0.0](https://hub.docker.com/re
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 
 
-![{AD41FEAE-EC38-4078-AA60-FD946D300EAA}](https://github.com/user-attachments/assets/173098a5-effc-4795-b82b-4f292ad6879e)
