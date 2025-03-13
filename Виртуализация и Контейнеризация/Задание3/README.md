@@ -42,4 +42,7 @@ image доступен [h4rdl/kapustin-netology:1.0.0](https://hub.docker.com/re
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 
+![{D47870A2-30BA-4084-A918-7BF1BC402A98}](https://github.com/user-attachments/assets/61d3780c-aff9-44e4-b308-6ca50cec6822)
+
+
 
