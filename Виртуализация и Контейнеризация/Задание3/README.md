@@ -23,7 +23,7 @@ Hey, Netology
 
 ![{0F98537F-C490-4CB3-90BB-9A8222437A1F}](https://github.com/user-attachments/assets/7eb47bc5-664d-4862-90a9-0f15e6c79ec7)
 
-image [доступен h4rdl/kapustin-netology:1.0.0](https://hub.docker.com/repository/docker/h4rdl/kapustin-netology/general)
+image доступен [h4rdl/kapustin-netology:1.0.0](https://hub.docker.com/repository/docker/h4rdl/kapustin-netology/general)
 
 Задача 2
 
