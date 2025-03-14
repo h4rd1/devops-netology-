@@ -94,6 +94,20 @@ image доступен [h4rdl/kapustin-netology:1.0.0](https://hub.docker.com/re
     Подключитесь во второй контейнер и отобразите листинг и содержание файлов в /data контейнера.
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
+
+![{644AAC5D-2B57-4749-A636-F986A16393D3}](https://github.com/user-attachments/assets/e8deadd7-e027-409f-95d8-0fc5d432bbf4)
+
+
+![{C0796C8C-A19B-4063-86B7-E4A370313F82}](https://github.com/user-attachments/assets/25d34b4d-e510-4333-93e2-fa6a5d3fbdae)
+
+
+![{8406062E-A671-40F9-82FB-4AFA3C4C908A}](https://github.com/user-attachments/assets/3cdf9ff8-2a58-4dd6-907e-a8737f49a0f5)
+
+
+![{93B65837-9931-4E7E-B4F5-D0A37E1199EF}](https://github.com/user-attachments/assets/fcfa8386-efe7-4506-bdcb-c772576a44c7)
+
+
+
 Задача 5
 
     Создайте отдельную директорию(например /tmp/netology/docker/task5) и 2 файла внутри него. "compose.yaml" с содержимым:
