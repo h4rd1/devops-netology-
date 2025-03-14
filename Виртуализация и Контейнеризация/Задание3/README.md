@@ -108,6 +108,9 @@ image доступен [h4rdl/kapustin-netology:1.0.0](https://hub.docker.com/re
 
 ![{93B65837-9931-4E7E-B4F5-D0A37E1199EF}](https://github.com/user-attachments/assets/fcfa8386-efe7-4506-bdcb-c772576a44c7)
 
+![{9D144A4E-19A5-407D-9532-CD19DF7514E0}](https://github.com/user-attachments/assets/f075efae-f46f-4259-b0c8-5634d67fe954)
+
+
 
 
 Задача 5
