@@ -30,7 +30,6 @@ Hey, Netology
 
 image доступен [h4rdl/kapustin-netology:1.0.0](https://hub.docker.com/repository/docker/h4rdl/kapustin-netology/general)
 
-![{2B2A3F41-3122-4E82-A70E-ADC1B3A2DC05}](https://github.com/user-attachments/assets/e24ddff3-fc93-4a77-93fc-2caa2b5a818b)
 
 Задача 2
 
