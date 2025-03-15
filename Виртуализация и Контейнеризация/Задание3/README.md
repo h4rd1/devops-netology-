@@ -155,4 +155,18 @@ services:
 
     Перейдите на страницу "http://127.0.0.1:9000/#!/2/docker/containers", выберите контейнер с nginx и нажмите на кнопку "inspect". В представлении <> Tree разверните поле "Config" и сделайте скриншот от поля "AppArmorProfile" до "Driver".
 
+![{D4564EB8-5115-4F74-ABFA-444627CA5D7C}](https://github.com/user-attachments/assets/6be9c1e7-4557-45e0-9ee7-1a30f2844009)
+
+![{DCECA0FB-B539-4B7D-A232-FC6D1D006536}](https://github.com/user-attachments/assets/1b191c1c-ab61-43bf-b741-7d2330b0bc44)
+
+![{B6F4D69A-2959-4F90-9094-769C546F8A7B}](https://github.com/user-attachments/assets/2564094a-64c4-4b80-85c4-82650bda3497)
+
+![{5DCCC236-7773-4180-A054-A6232F916F54}](https://github.com/user-attachments/assets/7172b3a8-21db-4757-9877-235a2d859e93)
+
+
+
+
+
+    
+
     Удалите любой из манифестов компоуза(например compose.yaml). Выполните команду "docker compose up -d". Прочитайте warning, объясните суть предупреждения и выполните предложенное действие. Погасите compose-проект ОДНОЙ(обязательно!!) командой.
