@@ -164,7 +164,15 @@ services:
 
 ![{5DCCC236-7773-4180-A054-A6232F916F54}](https://github.com/user-attachments/assets/7172b3a8-21db-4757-9877-235a2d859e93)
 
+![{F4AADFF8-FE4C-48F4-AD26-27686AC40334}](https://github.com/user-attachments/assets/1475b6ee-2959-479a-bd84-0b3364e92f3f)
 
+    Ошибка не найден файл. Такого файла или каталога нет. '/tmp/netology/docker/task5/compose.yml' 
+    Выключить проект docker-compose -f docker-compose.yml down но так как файл не найден будет ошибка.
+    можно вот так docker rm $(docker ps -aq)
+    ![{A1372917-229D-4FF3-8EA7-03E1DABD406B}](https://github.com/user-attachments/assets/0e15f92e-6f5c-4c81-83c7-4c74d07aeaba)
+
+
+    
 
 
 
